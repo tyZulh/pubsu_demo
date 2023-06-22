@@ -1,0 +1,16 @@
+{
+  "MessageId": "d3038ab3-7387-461d-ac12-5c01438ef534",
+  "ReceiptHandle": "AQEBoifyZIxDmlMJI7hTLGjCYCLYnHe7/o6Cj7JeKiFe02jMXVF5ZTUkEhT01vEl4fvgS1m6xbeQTom3EoVkI/tsGRbjL1v8EORwd7m+EUgPfceX59SS8LvKbzjBvirKE+FXbMHzdxqV07qpjnZXd2C3NaeBR63Yr/Fs/DURDxCmLmwXX4GwUDXGIngYy4vZHMtLvkuEr5t4xC4o/AUGXLJEh0JTyC0ThECvOA4AkFdwe/fIlbMXDRVf2hisDTG6Zp7hAVenNw/08Xt35TyGCwtiEy8T3xvwwV4YE81i2LLmIehH5uckyYWBKo5XTONSGKy+4RaSSWOk82jBbllZwKBi3ExuUpl5oHDmL/XibU96wOZ5/Oz/aGPTv5uezPm7bjdq",
+  "MD5OfBody": "faca776ff9bf2b074e4e01afd818c638",
+  "Body": {
+    "sender": "urw_test",
+    "origin": "tpaoli",
+    "type": "foo_update",
+    "data": { "id": "Second message test from pubsub_node module" }
+  },
+  "Attributes": {
+    "SentTimestamp": "1670943284177",
+    "ApproximateReceiveCount": "19"
+  }
+}
+
